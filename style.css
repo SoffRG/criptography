@@ -1,0 +1,37 @@
+.navbar{
+    background-color: #176B87;
+    color:#EEEEEE;
+}
+
+.cv-btn{
+    background-color: #176B87;
+    color:#EEEEEE ;
+}
+
+#Sofia{
+    width: 120%;
+    border-radius: 50%;
+}
+
+
+
+hr{
+    border: 2px solid #176B87; /* 3px de grosor, estilo punteado y color rojo (#FF0000) */
+    width: 70%;
+    margin: auto;
+    margin-top: 4px;
+}
+
+.logo_escuela{
+    width: 6rem;
+    margin-left: 7rem;
+}
+
+.card-img-top{
+    width: auto;
+}
+
+footer{
+    background-color: #176B87;
+    color: #EEEEEE;
+}
