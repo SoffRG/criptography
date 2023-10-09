@@ -35,3 +35,20 @@ footer{
     background-color: #176B87;
     color: #EEEEEE;
 }
+
+@media (max-width: 576px) {
+    body{
+        text-align: center;
+    }
+    #Sofia {
+        max-width: 200px;
+        height: auto;
+    }
+    .logo_escuela{
+        margin: auto;
+    }
+    .card{
+        margin: auto;
+        margin-top: 5px;
+    }
+}
